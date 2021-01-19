@@ -4,7 +4,7 @@
 
 ### 📝 Aufgabe:
 
-Erstellt eine Klasse ```Tier``` mit Sinnvollen Attributen (z.B. ```int age```, ```String nickname```). Erstellt von da an eine beliebig verästelte Vererbungshierarchie. z.B. eine Klasse ```Raubtier``` die von ```Tier``` erbt und neue Attribute mit sich bringt. Dann eine Klasse ```Tiger``` , ```Löwe```, ```Panther``` mit eigenen Attributen usw. 
+Erstellt eine Klasse ```Tier``` mit sinnvollen Attributen (z.B. ```int age```, ```String nickname```). Erstellt von da an eine beliebig verästelte Vererbungshierarchie. z.B. eine Klasse ```Raubtier``` die von ```Tier``` erbt und neue Attribute mit sich bringt. Dann eine Klasse ```Tiger``` , ```Löwe```, ```Panther``` mit eigenen Attributen usw. 
 
 Anschließend erstellt ihr ein Array ```Tier [] ``` und fügt ein paar Tiere in das Array ein.
 
