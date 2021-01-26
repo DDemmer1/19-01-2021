@@ -1,11 +1,15 @@
 package de.demmer.dennis;
 
-public class Tier {
+public abstract class Tier {
 	
 	private int age;
 	
 	private String nickname;
 	
+	
+	public void scream() {
+		System.out.println("Aaahh!");
+	}
 	
 	
 	public int getAge() {
@@ -23,6 +27,14 @@ public class Tier {
 	public void setNickname(String nickname) {
 		this.nickname = nickname;
 	}
+
+
+	@Override
+	public String toString() {
+		return "Tier [age=" + age + ", nickname=" + nickname + "]";
+	}
+	
+	
 	
 	
 
